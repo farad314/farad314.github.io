@@ -1,39 +1,36 @@
-# 法拉(Farad)的小说站
+# 法拉(Farad)的小说站架构源码
 
 [![Jekyll-theme-cayman](https://img.shields.io/badge/Jekyll_theme-cayman-%23159957?style=flat)](https://pages-themes.github.io/cayman/)
-![Pages status](https://github.com/farad314/farad314.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?style=flat)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3457f5da-e886-4400-96d3-e1a84b97a648/deploy-status)](https://app.netlify.com/sites/farad/deploys)
 
 ## 写在前面
 
-### 此仓库的LICENCE文件已删除 The LICENCE file of this repository has been removed
+### ~~注意！此分支的LICENCE文件仅对此分支有效 NOTE: The LICENCE file for this branch is only valid for this branch~~
 
-为保护作品著作权，此仓库的LICENCE文件已删除，除非网页内额外声明，否则此仓库的所有内容保留完整著作权。
+~~出于著作权保护的原因，`Main`分支不包含LECENCE文件，保留完整著作权。这个分支是在`Main`分支基础上分离所有内容创建的开源框架，如果看到未删除的非源码内容，请不要使用，它们大部分都不基于`MIT`协议，使用即侵权。~~
 
-未来可能会把不包括作品在内的部分网站源码作为独立分支开源。
+~~遇到此事最好的解决方案是在此分支的Issues区创建一个新Issue，向我告知未删除内容。可以接受中文或英文。~~
 
-The LICENCE file of this repository has been removed to protect the copyright of the novels, and we reserved full copyright of all contents of this repository retain unless otherwise stated within the page.
+~~此分支使用`MIT`协议开源，但此分支的LICENCE文件仅对此分支有效。~~
 
-Some of the website source code that does not include the novels may be open sourced as a separate branch in the future.
+~~For copyright protection reasons, the `Main` branch does not contain the LECENCE files and retains full copyright. This branch is an open source framework created by separating all contents based on Main branch, if you see non-source contents that are not removed, please do not use them, most of them are not based on MIT protocol, use is infringement.~~
 
-### 有关 Issues 和 Discussions
+~~The best solution is to create a new Issue in the Issues section of this branch, informing me of the undeleted content. Chinese or English is acceptable.~~
 
-代码库的Issues区仅用于报告网页渲染和脚本的bug，
+~~This branch is open source using the `MIT` licence, but the LICENCE file for this branch is only valid for this branch.~~
 
-如果聊小说请到Discussions区。
+-----
 
-## 声明
+在确认`MIT`协议细节之前，此分支暂不开源，与`Main`分支一致，保留所有著作权。
 
-这份README只是为了自己备忘使用，网站维护的范围不包括此README。也就是说，我不会在Issues区或Discussions区对README内容做解释。
+This branch is not open source until the details of the `MIT` licence are confirmed, all copyrights are reserved for now.
 
-这里只包括网站维护信息，所有信息仅限于字面，不包含任何形式的暗示，亦不表达任何立场。
+## TODO表 Todos
 
-## TODO表
-
-### 此页相关
+### 此页相关 Todos about this page
 
 - [x] 此页内容改成表格
-- [ ] 收录所有信息$~~~$*待确认*
+- [x] 收录所有信息&nbsp;&nbsp;&nbsp;*待确认*
+- [ ] 将此页翻译为英文 Translate this page into English
 
 ### 开发相关
 
@@ -47,9 +44,10 @@ Some of the website source code that does not include the novels may be open sou
     - [ ] 屏幕阅读器适配
   - [ ] 显示写作时间
 - [x] 重构
-  - [x] 变量名$~~~$*待确认*
+  - [x] 变量名&nbsp;&nbsp;&nbsp;*待确认*
   - [x] 文件名
   - [x] 注释
+- [ ] 将网站翻译为英文 Translate this site into English
 
 ### 内容相关
 
